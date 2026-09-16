@@ -180,15 +180,6 @@ tool:
   code
 - Tag each stage (`v0.1`, `v0.2`, …) so the history reads like this curriculum
 
-## Slotting alongside HackerRank
-
-- **HackerRank** = warm cache for *isolated mechanics* (a generics exercise, a
-  channels puzzle)
-- **This project** = the integration vehicle where those mechanics survive contact
-  with a real messy API and each other
-- Do a channels rep or two on HackerRank **before Stage 4** and the worker pool
-  clicks faster
-
 ---
 
 ## Progress
